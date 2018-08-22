@@ -7,4 +7,4 @@ collection of regular expressions
 
 ### none blank string
 
-- php /\s{0,}[\S]{1,}?/
+- php /\s{0,}[\S]+?/
